@@ -1,0 +1,6 @@
+{
+  "name": "SEPAC",
+  "description": "Saint Esprit Protestant Alumni Community. Together in Christ, Stronger in Purpose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

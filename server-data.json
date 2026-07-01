@@ -1,0 +1,89 @@
+{
+  "profiles": [
+    {
+      "id": "sepacnyanza@gmail.com",
+      "email": "sepacnyanza@gmail.com",
+      "name": "Rev. Jean d'Amour (Super Admin)",
+      "graduation_year": "1998",
+      "phone": "+250786047305",
+      "bio": "Serving the SEPAC community as Super Administrator. Focused on spiritual growth, pastoral care, and fellowship.",
+      "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150",
+      "role": "super_admin",
+      "approved": true,
+      "created_at": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "moderator@gmail.com",
+      "email": "moderator@gmail.com",
+      "name": "Marie Claire Uwase",
+      "graduation_year": "2005",
+      "phone": "+250788987654",
+      "bio": "Diligently moderating the SEPAC community, checking articles and submissions to maintain a warm family atmosphere.",
+      "avatar_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+      "role": "moderator",
+      "approved": true,
+      "created_at": "2026-02-15T09:00:00.000Z"
+    },
+    {
+      "id": "member1@gmail.com",
+      "email": "member1@gmail.com",
+      "name": "Eric Nshimyumuremyi",
+      "graduation_year": "2012",
+      "phone": "+250786047305",
+      "bio": "Alumnus of Saint Esprit, Class of 2012. Passionate about software development, faith, and youth mentorship.",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+      "role": "member",
+      "approved": true,
+      "created_at": "2026-03-01T10:30:00.000Z"
+    },
+    {
+      "id": "member2@gmail.com",
+      "email": "member2@gmail.com",
+      "name": "Divine Ineza",
+      "graduation_year": "2018",
+      "phone": "+250796379882",
+      "bio": "St. Esprit Alumni. Living in Kigali, involved in SEPAC worship ministry and community development outreach.",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "role": "member",
+      "approved": true,
+      "created_at": "2026-03-10T14:15:00.000Z"
+    }
+  ],
+  "passwords": {
+    "sepacnyanza@gmail.com": "admin123",
+    "moderator@gmail.com": "mod123",
+    "member1@gmail.com": "member123",
+    "member2@gmail.com": "member123"
+  },
+  "posts": [],
+  "comments": [],
+  "likes": [],
+  "events": [],
+  "gallery": [],
+  "prayer_requests": [],
+  "announcements": [],
+  "advertisements": [
+    {
+      "id": "ad_1",
+      "title": "Saint Esprit Revitalization Gala Dinner",
+      "description": "Support our beloved school complex. Buy a table for our alumni fundraising dinner to renovate the main student chapel and laboratories.",
+      "businessName": "SEPAC Community Fund",
+      "image_url": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800",
+      "link": "https://sepac.org/revitalize",
+      "contactPhone": "+250786047305",
+      "created_at": "2026-06-01T11:00:00.000Z",
+      "active": true
+    },
+    {
+      "id": "ad_2",
+      "title": "Ubumwe Business Consulting & Advisory",
+      "description": "Professional accounting, tax advisory, and spiritual business mentoring for graduates of Saint Esprit.",
+      "businessName": "Ubumwe Partners Ltd",
+      "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+      "link": "https://ubumweconsulting.rw",
+      "contactPhone": "+250796379882",
+      "created_at": "2026-06-05T08:30:00.000Z",
+      "active": true
+    }
+  ]
+}
